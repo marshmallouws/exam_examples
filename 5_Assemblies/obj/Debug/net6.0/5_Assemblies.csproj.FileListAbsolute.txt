@@ -1,0 +1,15 @@
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\bin\Debug\net6.0\5_Assemblies.exe
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\bin\Debug\net6.0\5_Assemblies.deps.json
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\bin\Debug\net6.0\5_Assemblies.runtimeconfig.json
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\bin\Debug\net6.0\5_Assemblies.dll
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\bin\Debug\net6.0\5_Assemblies.pdb
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\obj\Debug\net6.0\5_Assemblies.csproj.AssemblyReference.cache
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\obj\Debug\net6.0\5_Assemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\obj\Debug\net6.0\5_Assemblies.AssemblyInfoInputs.cache
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\obj\Debug\net6.0\5_Assemblies.AssemblyInfo.cs
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\obj\Debug\net6.0\5_Assemblies.csproj.CoreCompileInputs.cache
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\obj\Debug\net6.0\5_Assemblies.dll
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\obj\Debug\net6.0\refint\5_Assemblies.dll
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\obj\Debug\net6.0\5_Assemblies.pdb
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\obj\Debug\net6.0\5_Assemblies.genruntimeconfig.cache
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\5_Assemblies\obj\Debug\net6.0\ref\5_Assemblies.dll
