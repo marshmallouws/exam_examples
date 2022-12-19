@@ -1,0 +1,15 @@
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\bin\Debug\net6.0\6_Thread.exe
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\bin\Debug\net6.0\6_Thread.deps.json
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\bin\Debug\net6.0\6_Thread.runtimeconfig.json
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\bin\Debug\net6.0\6_Thread.dll
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\bin\Debug\net6.0\6_Thread.pdb
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\obj\Debug\net6.0\6_Thread.csproj.AssemblyReference.cache
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\obj\Debug\net6.0\6_Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\obj\Debug\net6.0\6_Thread.AssemblyInfoInputs.cache
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\obj\Debug\net6.0\6_Thread.AssemblyInfo.cs
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\obj\Debug\net6.0\6_Thread.csproj.CoreCompileInputs.cache
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\obj\Debug\net6.0\6_Thread.dll
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\obj\Debug\net6.0\refint\6_Thread.dll
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\obj\Debug\net6.0\6_Thread.pdb
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\obj\Debug\net6.0\6_Thread.genruntimeconfig.cache
+C:\Users\E_hle\OneDrive\Skrivebord\Exam\6_Thread\obj\Debug\net6.0\ref\6_Thread.dll
